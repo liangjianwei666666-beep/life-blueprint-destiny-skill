@@ -1,0 +1,4 @@
+interface:
+  display_name: "人生蓝图命理解读"
+  short_description: "结合出生信息、命理线索与人生设计模型，生成可验证的人生蓝图。"
+  default_prompt: "请根据我的出生信息和当前人生问题，帮我生成一份人生设计蓝图。"
